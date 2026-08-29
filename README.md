@@ -1,15 +1,16 @@
 # StudentHub
 
-StudentHub es una solución digital para administrar estudiantes y cursos universitarios.
+StudentHub es una plataforma digital para gestionar estudiantes, cursos y servicios académicos universitarios.
 
 ## Funcionalidades
 
-- Gestión de estudiantes
-- Gestión de cursos
+* Gestión de estudiantes
+* Gestión de cursos
 
 ## Equipo
 
-- Developer RobertoA
-- Developer RobertoB
+* Developer RobertoA
+* Developer RobertoB
 
 El proyecto será desarrollado colaborativamente utilizando Git y GitHub. xd
+
